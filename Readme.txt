@@ -21,20 +21,10 @@ DESCARGAR EL PROYECTO
 
 Opcion A: Clonar desde GitHub
 
-git clone https://github.com/TU-USUARIO/crm-simple.git
-cd crm-simple
 
-Opcion B: Descargar ZIP
+ Descargar ZIP  https://drive.google.com/file/d/1q3yYZVa7iPmc_el6wJ5XDBdBmXG78Zcm/view?usp=sharing
 
-Ve a https://github.com/TU-USUARIO/crm-simple
 
-Haz clic en "Code" -> "Download ZIP"
-
-Extrae el archivo en tu computadora
-
-Abre la terminal en la carpeta extraida
-
-CONFIGURAR BASE DE DATOS
 
 2.1 Iniciar MySQL (XAMPP)
 
@@ -230,3 +220,10 @@ Que MySQL este corriendo
 Que los puertos 8000 y 3000 esten libres
 
 Los logs de Laravel en backend/storage/logs/laravel.log
+
+
+
+
+
+link to drive to dwnload
+https://drive.google.com/file/d/1q3yYZVa7iPmc_el6wJ5XDBdBmXG78Zcm/view?usp=sharing
